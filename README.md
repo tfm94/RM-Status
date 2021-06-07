@@ -6,7 +6,7 @@ Anleitung:
 
 2. Scriptable öffnen und oben rechts über das + ein neues Script anlegen
 
-3. Script einfügen
+3. Script einfügen RS.js kopieren und hier einfügen
 
 4. Unten Links können noch Einstellungen wie der Name des Scriptes festgelegt werden.
 5. Script über "Done" speichern.
