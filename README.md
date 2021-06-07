@@ -21,3 +21,5 @@ Anleitung:
 9. Unter Script das erstellte Script auswählen. Bei Parameter den Radcode von Riese Müller eintragen.
 ![IMG_2970](https://user-images.githubusercontent.com/85504417/121042818-54761e80-c7b4-11eb-8782-51caa909821d.png)
 10. auf den Homscreen klicken. Kurz warten, anschließend sollte dein Rad angezeigt werden.
+
+Rückmeldungen gerne hier unter Issues
